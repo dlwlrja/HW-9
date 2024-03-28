@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Деление чисел = " + (a/b));
 
         //todo дописать логику и печать результата
+
     }
 
     private static void diff() {
